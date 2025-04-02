@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Health</string>
+    <string name="category1">স্বাস্থ্য ক্যালকুলেটর</string>
+    <string name="category2">ডায়েট </string>
+    <string name="category3">ক্যালরি চার্ট</string>
+    <string name="category4">ডায়েট তথ্য</string>
+    <string name="category5">ডায়েট রেসিপি</string>
+
+    <string name="category6">সাধারণ তালিকা</string>
+    <string name="category7">শর্করা</string>
+    <string name="category8">আমিষ</string>
+    <string name="category9">স্নেহ</string>
+    <string name="category10">সার্চ</string>
+
+    <string name="Dep1">আপনার শরীরের বিএমআই,বিএমআর দেখুন</string>
+    <string name="Dep2">ডায়েটের জন্য প্রোটিন,শর্করা ও স্নেহ মাপুন</string>
+    <string name="Dep3">প্রতি ১০০ গ্রাম খাবারে ক্যালরির পরিমাণ দেখুন</string>
+    <string name="Dep4">কিভাবে ডায়েট করবেন জেনে নিন</string>
+    <string name="Dep5">ডায়েট রেসিপি দেখে খাবার রান্না করুন</string>
+
+    <string name="Dep6">প্রতি ১০০গ্রাম খাবারে ক্যালরি দেখুন</string>
+    <string name="Dep7">শর্করা সমৃদ্ধ খাবারের তালিকা</string>
+    <string name="Dep8">আমিষ সমৃদ্ধ খাবারের তালিকা</string>
+    <string name="Dep9">চর্বি সমৃদ্ধ খাবারের তালিকা</string>
+    <string name="Dep10">প্রয়োজনীয় খাদ্য ও ক্যালরি বের করুন</string>
+</resources>
